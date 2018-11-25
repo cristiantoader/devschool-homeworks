@@ -54,7 +54,7 @@ public class Java8Assignment {
         // 14. using "words" as input print a string with each UPPERCASED word separated by ', '
         // 15. using "words" as input create a List containing all words starting with a vowel
         // 16. using "words" as input create a List containing all words ending in 'teen'
-        // 17. implement 11 and 12 using one method
+        // 17. implement 15 and 16 using one method
         // 18. using words as input create a Set of words with an odd number of letters
         // 19. using words as input create a Set containing the number of letters in a word
 
